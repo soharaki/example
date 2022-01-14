@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://docs.microsoft.com/
+HostUrl=https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
